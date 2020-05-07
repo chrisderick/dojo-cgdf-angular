@@ -1,0 +1,19 @@
+{
+  "imagens": [
+      {
+        "img": "assets/images/futurenostalgia.jpg",
+        "descricao": "Dua Lipa - Future Nostalgia",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/missanthropocene.jpg",
+        "descricao": "Grimes - Miss Anthropocene",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/neozone.jpg",
+        "descricao": "NCT 127 - Neo Zone",
+        "liked": "0"
+      }
+  ]
+}

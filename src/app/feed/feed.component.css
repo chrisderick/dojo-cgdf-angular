@@ -1,0 +1,23 @@
+.card-actions {
+  display: flex;
+}
+
+.card-actions > button {
+  margin-right: 9%;
+}
+
+.main-card {
+  width: 25%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+
+.main-card > img {
+  height: 80%;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}

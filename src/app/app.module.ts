@@ -12,7 +12,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatTabsModule } from '@angular/material/tabs';
-import { HttpClient } from '@angular/common/http';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -25,7 +25,7 @@ import { HttpClient } from '@angular/common/http';
     BrowserAnimationsModule,
     MatCardModule,
     MatButtonModule,
-    HttpClient,
+    HttpClientModule,
     MatToolbarModule,
     MatIconModule,
     MatMenuModule,
